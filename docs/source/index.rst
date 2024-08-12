@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+99OK - 99ok.tools - Sự Lựa Chọn Hoàn Hảo Cho Những Ai Yêu Thích Cá Cược Trực Tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `99OK <https://99ok.tools/>`_ là một trong những nền tảng cá cược trực tuyến hàng đầu, nổi bật với sự đa dạng về sản phẩm và dịch vụ. Với một loạt các trò chơi từ cá cược thể thao, casino trực tuyến, đến các trò chơi bài đổi thưởng, 99OK cung cấp cho người chơi những cơ hội đa dạng để tham gia và thắng lớn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+99OK còn nổi bật với các chương trình khuyến mãi hấp dẫn và ưu đãi đặc biệt, giúp người chơi có thêm nhiều lựa chọn và cơ hội chiến thắng. 99OK cam kết mang đến một môi trường cá cược công bằng, an toàn và bảo mật, nhờ vào hệ thống công nghệ tiên tiến và các chính sách bảo mật nghiêm ngặt.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 54 Ng. Chợ Khâm Thiên, phường Khâm Thiên, quận Đống Đa, thành phố Hà Nội, Việt Nam. 
 
-Contents
---------
+Phone: 0943043711. 
 
-.. toctree::
+Email: 99ok.tools@gmail.com. 
 
-   usage
-   api
+Website: https://99ok.tools/
+
+#99ok #nhacai99ok #dangky99ok #trangchu99ok #link99ok
